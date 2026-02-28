@@ -329,9 +329,7 @@ sudo systemctl restart jenkins
 ---
 
 ## 👥 Contributors:
-- Joyston : Jenkins Pipeline
-- Imran : Notification System
-- Vaibhav : Prometheus and Grafana
+- Revanth : Jenkins Pipeline, Notification System, Prometheus and Grafana
   
 ## 📜 License
 This project is licensed under the MIT License.
