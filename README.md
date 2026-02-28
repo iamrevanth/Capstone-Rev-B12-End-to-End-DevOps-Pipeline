@@ -149,14 +149,14 @@ Before setting up Jenkins, ensure the following:
 
 ## ⚙️ Github Configurations
 
-![GITHUB_01](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/GITHUB_01.png)
+![GITHUB_01](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/GITHUB_01.png)
 
 ---
 
 ## ⚙️ AWS Configurations
 
-![AWS_01](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/AWS_01.png)
-![AWS_02](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/AWS_02.png)
+![AWS_01](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/AWS_01.png)
+![AWS_02](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/AWS_02.png)
 
 ### 📦 EC2 Instance Minimum Requirements
 - **Operating System**: Ubuntu 24.04 LTS  
@@ -265,34 +265,34 @@ sudo systemctl restart jenkins
 - **ID**: `GITHUB_CREDENTIALS`  
 - **Type**: Username with Password  
 - **Credentials**:  
-  - Username (e.g., `JOYSTON-LEWIS`)  
+  - Username (e.g., `iamrevanth`)  
   - Password / Token (e.g., **GitHub PAT Token**)  
 
 ---
 
 ### 📸 Jenkins Secret Text Variables
 
-![JENKINS_01](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_01.png)
-![JENKINS_02](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_02.png)
-![JENKINS_03](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_03.png)
-![JENKINS_04](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_04.png)
-![JENKINS_05](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_05.png)
-![JENKINS_06](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_06.png)
-![JENKINS_07](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_07.png)
-![JENKINS_08](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_08.png)
-![JENKINS_09](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_09.png)
-![JENKINS_10](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_10.png)
+![JENKINS_01](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_01.png)
+![JENKINS_02](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_02.png)
+![JENKINS_03](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_03.png)
+![JENKINS_04](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_04.png)
+![JENKINS_05](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_05.png)
+![JENKINS_06](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_06.png)
+![JENKINS_07](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_07.png)
+![JENKINS_08](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_08.png)
+![JENKINS_09](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_09.png)
+![JENKINS_10](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_10.png)
 
 ### 📸 Jenkins Configuration Screenshots
 
-![JENKINS_11](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_11.png)
-![JENKINS_12](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_12.png)
-![JENKINS_13](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_13.png)
-![JENKINS_14](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_14.png)
-![JENKINS_15](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_15.png)
-![JENKINS_16](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_16.png)
-![JENKINS_17](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_17.png)
-![JENKINS_18](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_18.png)
+![JENKINS_11](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_11.png)
+![JENKINS_12](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_12.png)
+![JENKINS_13](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_13.png)
+![JENKINS_14](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_14.png)
+![JENKINS_15](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_15.png)
+![JENKINS_16](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_16.png)
+![JENKINS_17](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_17.png)
+![JENKINS_18](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/JENKINS_18.png)
 
 ---
 
@@ -309,22 +309,22 @@ sudo systemctl restart jenkins
 
 ### 📸 Screenshots:
 
-![OUTPUT_01](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_01.png)
-![OUTPUT_02](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_02.png)
-![OUTPUT_03](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_03.png)
-![OUTPUT_04](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_04.png)
-![OUTPUT_05](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_05.png)
-![OUTPUT_06](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_06.png)
-![OUTPUT_07](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_07.png)
-![OUTPUT_08](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_08.png)
-![OUTPUT_09](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_09.png)
-![OUTPUT_10](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_10.png)
-![OUTPUT_11](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_11.png)
-![OUTPUT_12](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_12.png)
-![OUTPUT_13](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_13.png)
-![OUTPUT_14](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_14.png)
-![OUTPUT_15](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_15.png)
-![OUTPUT_16](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_16.png)
+![OUTPUT_01](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_01.png)
+![OUTPUT_02](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_02.png)
+![OUTPUT_03](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_03.png)
+![OUTPUT_04](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_04.png)
+![OUTPUT_05](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_05.png)
+![OUTPUT_06](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_06.png)
+![OUTPUT_07](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_07.png)
+![OUTPUT_08](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_08.png)
+![OUTPUT_09](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_09.png)
+![OUTPUT_10](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_10.png)
+![OUTPUT_11](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_11.png)
+![OUTPUT_12](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_12.png)
+![OUTPUT_13](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_13.png)
+![OUTPUT_14](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_14.png)
+![OUTPUT_15](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_15.png)
+![OUTPUT_16](https://github.com/iamrevanth/My-Media-Repository/blob/main/Capstone_Project_Screenshots/OUTPUT_16.png)
 
 ---
 
